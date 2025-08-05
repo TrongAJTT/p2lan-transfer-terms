@@ -1,6 +1,6 @@
 ### **Terms of Use for P2Lan Transfer**
 
-**Effective Date:** 08/04/2025
+**Effective Date:** 08/05/2025
 
 Welcome to P2Lan Transfer!
 
@@ -21,7 +21,6 @@ By using the Application, you acknowledge that you have read, understood, and ag
     *   Transmit any content that is illegal, harmful, threatening, abusive, harassing, defamatory, infringing, or morally objectionable.
     *   Share malware, viruses, trojans, or any other malicious code.
     *   Violate the intellectual property rights (copyright, trademark) of any third party.
-    *   Attempt to reverse engineer, decompile, or extract the source code of the Application.
 
 **4. User Content and Developer's Disclaimer of Liability**
 
@@ -49,7 +48,7 @@ The source code of P2Lan Transfer is licensed under the GNU General Public Licen
 
 **9. Termination**
 
-You may terminate this agreement at any time by uninstalling and ceasing to use the Application. We reserve the right to terminate your right to use the Application if you violate these Terms.
+You may terminate this agreement at any time by uninstalling and ceasing to use the Application.
 
 **10. Changes to Terms**
 
@@ -57,4 +56,4 @@ We reserve the right to modify these Terms at any time. The updated version will
 
 **11. Contact**
 
-If you have any questions about these Terms, please contact us at [https://github.com/TrongAJTT].
+If you have any questions about these Terms, please contact us at [trong.ajtt.dev@gmail.com].

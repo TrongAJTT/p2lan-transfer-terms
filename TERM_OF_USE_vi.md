@@ -1,6 +1,6 @@
 ### **Điều Khoản Sử Dụng (Terms of Use) cho P2Lan Transfer**
 
-**Ngày có hiệu lực:** 04/08/2025
+**Ngày có hiệu lực:** 05/08/2025
 
 Chào mừng bạn đến với P2Lan Transfer!
 
@@ -21,7 +21,6 @@ Bằng việc sử dụng Ứng dụng, bạn xác nhận rằng bạn đã đ�
     *   Truyền tải bất kỳ nội dung nào bất hợp pháp, có hại, đe dọa, lạm dụng, quấy rối, phỉ báng, vi phạm bản quyền, hoặc đáng chê trách về mặt đạo đức.
     *   Chia sẻ phần mềm độc hại, virus, trojan, hoặc bất kỳ mã độc nào khác.
     *   Vi phạm quyền sở hữu trí tuệ (bản quyền, thương hiệu) của bất kỳ bên thứ ba nào.
-    *   Cố gắng dịch ngược (reverse engineer), giải mã (decompile), hoặc trích xuất mã nguồn của Ứng dụng.
 
 **4. Nội dung của Người dùng và Miễn trừ Trách nhiệm của Nhà phát triển**
 
@@ -49,7 +48,7 @@ Mã nguồn của P2Lan Transfer được cấp phép theo Giấy phép Công c�
 
 **9. Chấm dứt**
 
-Bạn có thể chấm dứt thỏa thuận này bất kỳ lúc nào bằng cách gỡ cài đặt và ngừng sử dụng Ứng dụng. Chúng tôi có quyền chấm dứt quyền sử dụng Ứng dụng của bạn nếu bạn vi phạm các Điều khoản này.
+Bạn có thể chấm dứt thỏa thuận này bất kỳ lúc nào bằng cách gỡ cài đặt và ngừng sử dụng Ứng dụng.
 
 **10. Thay đổi Điều khoản**
 
@@ -57,4 +56,4 @@ Chúng tôi có quyền sửa đổi các Điều khoản này vào bất kỳ l
 
 **11. Liên hệ**
 
-Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi qua [https://github.com/TrongAJTT].
+Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi qua [trong.ajtt.dev@gmail.com].
